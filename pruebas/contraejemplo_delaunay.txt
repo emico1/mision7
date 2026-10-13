@@ -1,0 +1,7 @@
+4  # contraejemplo donde delaunay no es optimo
+0 10
+4 0
+5 1
+6 3
+# optimo PD costo 3.6056, diagonales v1-v3
+# delaunay costo 10.2956, diagonales v0-v2

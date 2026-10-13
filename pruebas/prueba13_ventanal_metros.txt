@@ -1,0 +1,13 @@
+11  # ventanal panoramico irregular, coordenadas en metros (10.8 m de ancho por 6.6 m de alto)
+precio 230.33  # pesos por metro de PTR de acero 2x2 calibre 14, 1382 MXN sin IVA el tramo de 6 m
+0.0 0.0
+3.2 0.0
+6.8 0.4
+9.5 1.6
+10.6 3.4
+10.2 5.1
+7.9 6.3
+4.6 6.6
+1.6 5.8
+-0.2 3.6
+-0.5 1.5

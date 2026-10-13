@@ -1,0 +1,6 @@
+5  # caso de error, poligono no convexo
+0.00 0.00
+4.00 0.00
+2.00 1.00
+4.00 4.00
+0.00 4.00

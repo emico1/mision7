@@ -1,0 +1,4 @@
+5  # caso de error, declara 5 vertices pero solo trae 3
+0 0
+4 0
+4 4

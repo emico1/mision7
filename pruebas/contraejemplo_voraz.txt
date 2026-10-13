@@ -1,0 +1,8 @@
+5  # contraejemplo donde voraz no es optimo
+4 10
+1 7
+0 4
+3 0
+8 10
+# optimo PD costo 14.8959, diagonales v1-v3 v1-v4
+# voraz costo 17.2111, diagonales v0-v2 v2-v4

@@ -1,0 +1,5 @@
+4  # rombo, la diagonal corta mide 4 y la larga 12
+0.00 0.00
+6.00 2.00
+12.00 0.00
+6.00 -2.00

@@ -1,0 +1,7 @@
+casos,10000
+triangulaciones_revisadas,82596607
+diferencias_pd_vs_fuerza_bruta,0
+diferencias_pd_rapida_vs_pd,0
+delaunay_que_no_cumplen_circulo_vacio,0
+diferencias_angulo_delaunay_vs_pd_angular,0
+segundos,10.62
